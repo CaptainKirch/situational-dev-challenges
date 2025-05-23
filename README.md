@@ -1,4 +1,4 @@
-# 🛍️ Situational Dev Challenges
+# Situational Dev Challenges
 
 A collection of real-world coding challenges designed to level up my backend development and problem-solving skills. Each project simulates a focused developer scenario—from REST API design and scraping tasks to algorithm-infused micro-services.
 
